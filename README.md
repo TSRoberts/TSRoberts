@@ -14,14 +14,14 @@ Welcome to my Testing Portfolio! I am an aspiring software tester currently lear
 ## 🏆 Certifications
 I have completed a **Software Foundations and Validation Course**. You can view the details below:
 
-📄 [View Certificate (PDF)]https://github.com/TSRoberts/Testing-Portfolio/blob/main/Certificate%20of%20Achievement.pdf
+📄 [View Certificate (PDF)](https://github.com/TSRoberts/Testing-Portfolio/blob/main/Certificate%20of%20Achievement.pdf)
 
 
 ## 🌱 My Goal
 To build a solid portfolio and land my first role in software testing 🚀
 
 ## 💬 Contact Me
-You can contact me through the following channels:
+You can contact me here:
 
 - **Email**: teresaroberts262@yahoo.com
 
