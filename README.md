@@ -1,4 +1,4 @@
-# Testing Portfolio
+# About Me
 
 Welcome to my Testing Portfolio! I am an aspiring software tester currently learning manual testing with a goal of progressing into automation testing. I am also studying for the ISTQB Foundation certification to further my knowledge in software testing methodologies and practices.
 
@@ -14,7 +14,7 @@ Welcome to my Testing Portfolio! I am an aspiring software tester currently lear
 ## 🏆 Certifications
 I have completed a **Software Foundations and Validation Course**. You can view the details below:
 
-📄 [View Certificate (PDF)](https://github.com/TSRoberts/Testing-Portfolio/blob/main/Certificate%20of%20Achievement.pdf)
+📄 [View Certificate (PDF)](https://github.com/TSRoberts/TSRoberts/blob/main/Certificate%20of%20Achievement.pdf)
 
 
 ## 🌱 My Goal
