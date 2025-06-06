@@ -18,7 +18,7 @@ I have completed a **Software Foundations and Validation Course**. You can view 
 
 
 ## 🌱 My Goal
-To build a solid portfolio and land my first role in software testing 🚀
+To build a solid portfolio and land my first role in software testing.
 
 ## 💬 Contact Me
 You can contact me here:
