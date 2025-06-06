@@ -9,7 +9,7 @@ Welcome to my Testing Portfolio! I am an aspiring software tester currently lear
 - Test Plan Creation
 - Test Execution and Reporting
 - Software Testing Methodologies
-- Automation Testing (future goal)
+- Automation Testing 
 
 ## 🏆 Certifications
 I have completed a **Software Foundations and Validation Course**. You can view the details below:
