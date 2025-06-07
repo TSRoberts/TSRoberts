@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my Testing Portfolio! I am an aspiring software tester currently learning manual testing with a goal of progressing into automation testing. I am also studying for the ISTQB Foundation certification to further my knowledge in software testing methodologies and practices.
+Welcome to my profile! I am an aspiring software tester currently learning manual testing with a goal of progressing into automation testing. I am also studying for the ISTQB Foundation certification to further my knowledge in software testing methodologies and practices.
 
 ## 🔍 What I am Learning
 - Manual Testing Techniques
